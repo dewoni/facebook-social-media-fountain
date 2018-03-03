@@ -1,0 +1,74 @@
+.selite {
+  text-align:center;
+  margin-top:50px;
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+}
+
+.markkinointiPalvelutKuvio{
+      background: linear-gradient(35deg, #74EBD5 0%, #9FACE6 100%);
+      border-radius: 5rem;
+      position: relative;
+      box-shadow: 0 13px 48px rgba(0,0,0,0.13);
+      height: 500px;
+      width: 500px;
+      overflow: hidden;
+  }
+
+  .markkinointiPalvelutKuvioWrapper{
+      position: relative;
+      min-height: 450px;
+      margin: 5rem 0 5rem 0;
+
+  }
+
+
+.someSuihku1 {
+    background: url(https://s9.postimg.org/6612bwssr/facebook.png) no-repeat;
+    position: absolute;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+  }
+
+  .someSuihku2 {
+    background: url(https://s9.postimg.org/u9ru07qp7/instagram.png) no-repeat;
+    position: absolute;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+  }
+  .someSuihku3 {
+    background: url(https://s9.postimg.org/cwhjlcnob/linkedin.png) no-repeat;
+    position: absolute;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+  }
+  .someSuihku4 {
+    background: url(https://s9.postimg.org/kp87dc92z/search.png) no-repeat;
+    position: absolute;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+  }
+  .someSuihku5 {
+    background: url(https://s9.postimg.org/41gpaum17/twitter.png) no-repeat;
+    position: absolute;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+  }
+  .someSuihku6 {
+    background: url(https://s9.postimg.org/fqkoyw5b3/youtube.png) no-repeat;
+    position: absolute;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+  }
